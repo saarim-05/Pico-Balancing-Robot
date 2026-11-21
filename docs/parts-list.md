@@ -5,7 +5,7 @@
 | 1 | Raspberry Pi Pico W | 1 | - | Already available from last year
 | 2 | MPU6050 (GY-521) Module | 1 | |
 | 3 | TB6612FNG Dual Motor Driver | 1 | |
-| 4 | N20 DC Gearmotors (6V or 12V, 300 RPM, metal gear, WITH encoders) | 2 | |
+| 4 | N20 DC Gearmotors (6V or 12V, 300 RPM, metal gear, WITH encoders) | 2 | | CHECK SHOULD HAVE 6-PIN ENCODER
 | 5 | N20 Motor Mounting Brackets | 2 | |
 | 6 | 65 mm Robot Wheels (3 mm D-shaft hole) | 2 | |
 | 7 | 2S LiPo Battery (7.4V, 1000 mAh – 1500 mAh, 20C+) | 1 | |
@@ -20,5 +20,9 @@
 | 16 | Heat-Shrink Tubing (2 mm – 6 mm)  | 1 pack | |
 | 17 | OLED Screen  | 1 | - | Already available from last year
 | 18 | Breadboard  | 1 | - | Already available from last year
+| 19 | M2 Screws & Nuts (e.g., M2 × 6 mm or M2 × 8 mm  | 20 |  | For MPU6050, 0.96" OLED screen, and N20 motor brackets
+| 20  | 22 AWG Silicone Stranded Wire  | 1m black + red |  | For between battery connector, rocker switch, 5V buck converter, and TB6612FNG motor driver
+| 21 | Velcro Strap (Cırt Cırt Bant) or Heavy-Duty Double-Sided Foam Tape |  |  | To tape battery to top deck
+| 22 | Small Zip Ties  | 1 pack  |  | For wiring purposes
 
 Total Cost:
