@@ -1,4 +1,4 @@
-# Parts List
+<img width="861" height="771" alt="image" src="https://github.com/user-attachments/assets/b10a4ec2-89a4-4c78-8d50-6fa60a4d2037" /># Parts List
 
 | S.No | Component Name | Quantity | Price (TL) | Notes / Link |
 | :--- | :---: | :---: | :--- | :--- |
@@ -21,8 +21,10 @@
 | 17 | OLED Screen  | 1 | - | Already available from last year
 | 18 | Breadboard  | 1 | - | Already available from last year
 | 19 | M2 Screws & Nuts (e.g., M2 × 6 mm or M2 × 8 mm  | 20 |  | For MPU6050, 0.96" OLED screen, and N20 motor brackets
-| 20  | 22 AWG Silicone Stranded Wire  | 1m black + red | 1 | For between battery connector, rocker switch, 5V buck converter, and TB6612FNG motor driver
-| 21 | Velcro Strap (Cırt Cırt Bant) or Heavy-Duty Double-Sided Foam Tape |  |  | To tape battery to top deck
+| 20  | 22 AWG Silicone Stranded Wire  | 1m black + red |  | For between battery connector, rocker switch, 5V buck converter, and TB6612FNG motor driver
+| 21 | Velcro Strap (Cırt Cırt Bant) or Heavy-Duty Double-Sided Foam Tape | 1 |  | To tape battery to top deck
 | 22 | Small Zip Ties  | 1 pack  |  | For wiring purposes
+| 23 | Male-to-Male jumper cables  | 1 pack  | - | Already available from last year
+
 
 Total Cost:
