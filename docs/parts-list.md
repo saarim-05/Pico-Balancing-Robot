@@ -21,7 +21,7 @@
 | 17 | OLED Screen  | 1 | - | Already available from last year
 | 18 | Breadboard  | 1 | - | Already available from last year
 | 19 | M2 Screws & Nuts (e.g., M2 × 6 mm or M2 × 8 mm  | 20 |  | For MPU6050, 0.96" OLED screen, and N20 motor brackets
-| 20  | 22 AWG Silicone Stranded Wire  | 1m black + red |  | For between battery connector, rocker switch, 5V buck converter, and TB6612FNG motor driver
+| 20  | 22 AWG Silicone Stranded Wire  | 1m black + red | 1 | For between battery connector, rocker switch, 5V buck converter, and TB6612FNG motor driver
 | 21 | Velcro Strap (Cırt Cırt Bant) or Heavy-Duty Double-Sided Foam Tape |  |  | To tape battery to top deck
 | 22 | Small Zip Ties  | 1 pack  |  | For wiring purposes
 
