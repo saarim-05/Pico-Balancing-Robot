@@ -20,7 +20,7 @@
 | 17  | 22 AWG Silicone Stranded Wire  | 1m black + red |  | For between battery connector, rocker switch, 5V buck converter, and TB6612FNG motor driver
 | 18 | Velcro Strap (Cırt Cırt Bant) or Heavy-Duty Double-Sided Foam Tape | 1 |  | To tape battery to top deck
 | 19 | Small Zip Ties  | 1 pack  |  | For wiring purposes
-
+|  | | | | 
 | 1 | Raspberry Pi Pico W | 1 | - | Already available from last year
 | 2 | OLED Screen  | 1 | - | Already available from last year
 | 3 | Breadboard  | 1 | - | Already available from last year
